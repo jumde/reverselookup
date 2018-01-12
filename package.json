@@ -1,0 +1,11 @@
+{
+  "name": "reverse-lookup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverse_lookup.js",
+  "author": "Pranjal Jumde <pranjal.jumde@gmail.com>",
+  "license": "MIT"
+  "dependencies": {
+    "dns": "^0.2.2",
+  }
+}
